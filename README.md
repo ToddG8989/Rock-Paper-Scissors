@@ -9,7 +9,6 @@ import java.util.Random;
  */
 public class RockPaperScissors
 {
-    // 
     private InputReader reader;
     private int yourScore;
     private int computerScore;
